@@ -6,3 +6,14 @@ A beginner open source project
   * Installation steps
   * Usage examples
   * Contribution process
+
+**open-source-project-structure**
+
+Project
+|
+|-- README.md
+|-- LICENSE
+|-- CONTRIBUTING.md
+|-- CODE_OF_CONDUCT.md
+|-- docs/
+|-- src/
